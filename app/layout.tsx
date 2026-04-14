@@ -21,7 +21,7 @@ const inter = Inter({
 });
 
 // ── BRAND CONSTANTS ────────────────────────────────────────────────────────────
-const SITE_URL   = "https://www.adventureskashmir.com";
+const SITE_URL   = "https://umairbinfarooq19.github.io/WWG_v4";
 const SITE_NAME  = "Adventures Kashmir";
 const SITE_TAGLINE = "Luxury Himalayan Treks & Gulmarg Skiing | Gulmarg, Kashmir";
 const OG_IMAGE   = `${SITE_URL}/og/adventures-kashmir-hero.jpg`;
